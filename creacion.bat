@@ -1,0 +1,17 @@
+@echo off
+mkdir "A.Informe"
+mkdir "A.Informe\A.1 Informe_Auditoria_Final"
+mkdir "A.Informe\A.2 Informe_Auditoria_Borrador"
+mkdir "A.Informe\A.3 Resumen_Observaciones_Control_Interno"
+mkdir "B.Planificacion"
+mkdir "B.Planificacion\B.1 Comunicacion_Designacion"
+mkdir "B.Planificacion\B.2 Comunicacion_Inicio"
+mkdir "B.Planificacion\B.3 Memorandum_Planeacion_Auditoria"
+mkdir "B.Planificacion\B.4 Programa_Trabajo"
+mkdir "C.Ejecucion"
+mkdir "D.Otros"
+mkdir "D.Otros\D.1 Comunicacion_Final_Conformidades"
+mkdir "D.Otros\D.2 Otros"
+mkdir "E.Normativa"
+mkdir "PPE"
+echo Carpetas creadas exitosamente.
